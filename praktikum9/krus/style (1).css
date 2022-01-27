@@ -1,0 +1,26 @@
+.container {
+    width: 50%;
+}
+
+fieldset {
+    background-color: rgba(red, green, blue, alpha);
+}
+
+table th {
+    background-color: lightblue;
+    width: 20%;
+}
+
+table td {
+    background-color: floralwhite;
+    width: 20%;
+    text-align: center;
+}
+
+select {
+    width: 100%;
+}
+
+#uangn {
+    width: 97;
+}
